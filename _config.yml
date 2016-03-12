@@ -1,0 +1,28 @@
+name: Levitsky Studio
+favicon: null
+layout_spectrum: 0.04692083899863064
+typography_spectrum: 0.16580276167951524
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.42301433882676065
+  lightness: 0.8104488381650299
+  saturation: 0.3507186162751168
+  rhythmicContrast: 0.4883500928990543
+purpose: []
